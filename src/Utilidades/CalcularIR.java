@@ -2,7 +2,7 @@ package Utilidades;
 
 import GUI.UserAdmin;
 import GUI.UserIR;
-
+//this is a test tool to see if it works
 /**
  *
  * @author SIS 05
